@@ -1,4 +1,4 @@
-### Hello there! I'm Chao Xin Nhin (Chao Sheen Nhin) 👋
+### Hello there! I'm Chao Xin Nhin 👋
 
 I'm a new software developer from Auckland, New Zealand.
 
