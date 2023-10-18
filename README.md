@@ -1,6 +1,6 @@
 ### Hello there! I'm Chao Xin Nhin 👋
 
-I'm a new software developer from Auckland, New Zealand.
+I'm a software developer from Auckland, New Zealand.
 
 I have been developing my web application skills since the beginning of this year through the Mission Ready program. My expertise includes working with various coding languages such as HTML, CSS, Javascript, React js, and Node js. Moreover, I am adept at constructing databases using MySQL and Mongo DB. I also have experience building containers using Docker and deploying projects on Google Cloud Platform. 
 
